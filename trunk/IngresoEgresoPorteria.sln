@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngresoEgresoPorteria", "IngresoEgresoPorteria\IngresoEgresoPorteria.csproj", "{55D51214-AE50-49D5-AD41-FFB378A4DA3B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Registro de Ingreso y Egreso", "Registro de Ingreso y Egreso\Registro de Ingreso y Egreso.vdproj", "{E755A581-7D04-40A6-B63B-AFA184E70F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55D51214-AE50-49D5-AD41-FFB378A4DA3B}.Debug|x86.ActiveCfg = Debug|x86
+		{55D51214-AE50-49D5-AD41-FFB378A4DA3B}.Debug|x86.Build.0 = Debug|x86
+		{55D51214-AE50-49D5-AD41-FFB378A4DA3B}.Release|x86.ActiveCfg = Release|x86
+		{55D51214-AE50-49D5-AD41-FFB378A4DA3B}.Release|x86.Build.0 = Release|x86
+		{E755A581-7D04-40A6-B63B-AFA184E70F5D}.Debug|x86.ActiveCfg = Debug
+		{E755A581-7D04-40A6-B63B-AFA184E70F5D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
