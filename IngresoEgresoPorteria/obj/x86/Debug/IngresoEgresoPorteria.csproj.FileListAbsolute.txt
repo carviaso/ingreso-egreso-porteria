@@ -1,0 +1,19 @@
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\bin\Debug\Registro de Ingreso y Egreso.exe.config
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\bin\Debug\Registro de Ingreso y Egreso.exe
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\bin\Debug\Registro de Ingreso y Egreso.pdb
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\IngresoEgresoPorteria.AltaEmpleado.resources
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\IngresoEgresoPorteria.EgresoEmpleado.resources
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\IngresoEgresoPorteria.ListadoEgresoEmpleados.resources
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\IngresoEgresoPorteria.ListadoEmpleados.resources
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\IngresoEgresoPorteria.ListadoIngresoEmpleados.resources
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\IngresoEgresoPorteria.MainForm.resources
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\IngresoEgresoPorteria.IngresoEmpleado.resources
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\IngresoEgresoPorteria.ModificaEgresoEmpleado.resources
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\IngresoEgresoPorteria.ModificaEmpleado.resources
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\IngresoEgresoPorteria.Properties.Resources.resources
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\Registro de Ingreso y Egreso.exe
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\Registro de Ingreso y Egreso.pdb
+C:\Documents and Settings\lbaleri\My Documents\Visual Studio 2010\Projects\IngresoEgresoPorteria\IngresoEgresoPorteria\obj\x86\Debug\IngresoEgresoPorteria.ModificaIngresoEmpleado.resources
